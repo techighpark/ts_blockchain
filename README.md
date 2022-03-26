@@ -1,3 +1,3 @@
-# Block Chain with typescript
+# typescript_Chain
 
-Learding Typescript by making a Blockchain with it
+Learing Typescript by making a Blockchain with it
