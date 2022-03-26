@@ -1,0 +1,19 @@
+{
+  "name": "typescript_chain",
+  "version": "1.0.0",
+  "description": "Learing Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techighpark/typescript_Chain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techighpark/typescript_Chain/issues"
+  },
+  "homepage": "https://github.com/techighpark/typescript_Chain#readme"
+}
