@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "prestart": "tsc"
+    "start": "tsc-watch --onSuccess \"node dist/index.js\" "
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/techighpark/typescript_Chain/issues"
   },
-  "homepage": "https://github.com/techighpark/typescript_Chain#readme"
+  "homepage": "https://github.com/techighpark/typescript_Chain#readme",
+  "devDependencies": {
+    "tsc-watch": "^4.6.2"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
 }
